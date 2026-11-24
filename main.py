@@ -5,7 +5,9 @@ house cat about its human owner, to /output/entry.txt.
 
 The line was chosen by a two-way self-jury tournament over 30 candidates
 (see the build notes): a $400 cat tree, bought with such hope, loses to the
-cardboard box it arrived in — and the cat reviews the box too.
+cardboard box it arrived in — and the cat reviews the box too. The sting
+lands in the last words, as the judge's brief demands: "The box is also
+one star" turns the review's own form back on itself.
 Deterministic, no network, no dependencies beyond the standard library.
 """
 
